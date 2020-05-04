@@ -1,323 +1,359 @@
 {
 "key" :
   { 
-    "Do you  eat breakfast?": {
+    "if you opened your closet what would be the main color palette?": {
       "x" : 0,
       "y" : 0,
-      "always" : "1_always.png",
-      "often" : "1_often.png",
-      "sometimes" : "1_sometimes.png",
-      "hardly ever" : "1_hardly-ever.png",
-      "never" : "1_never.png",
+      "basics" : "1_always.png",
+      "neutrals" : "1_often.png",
+      "a rainbow of colors" : "1_sometimes.png",
+      "earth tones" : "1_hardly-ever.png",
+      "blacks with touches of bold colors" : "1_never.png",
       "is_text" : false
     },
-    "What is your first beverage of the day?": {
-      "x" : 30,
-      "y" : 60,
-      "coffee" : "02_coffee.png",
-      "tea" : "02_tea.png",
-      "water" : "02_water.png",
-      "juice" : "02_juice.png",
+    "if you could describe your style in one word what would it be?": {
+      "x" : 0,
+      "y" : 0,
+      "city" : "city.png",
+      "fun" : "fun.png",
+      "fly" : "fly.png",
+      "comfy" : "comfy.png",
+      "cool" : "cool.png",
+      "plain" : "plain.png",
+      "casual" : "casual.png",
+      "workwear" : "workwear.png",
+      "athleisure" : "athleisure.png",
+      "kylie jenner" : "kylie jenner.png",
       "is_text" : false
     },
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": {
-      "x" : 263,
-      "y" : 28,
-      "1" : "3-1.png",
-      "2" : "3-2.png",
-      "3" : "3-3.png",
-      "4" : "3-4.png",
-      "5" : "3-5.png",
+    "how often do you try out the latest fashion trends?": {
+      "x" : 0,
+      "y" : 0,
+      "rarley" : "3-1.png",
+      "occasionally" : "3-2.png",
+      "all the time" : "3-3.png",
       "is_text" : false
     },
-    "I can't think unless I have breakfast.": {
-      "x" : 132,
-      "y" : 72,
-      "TRUE" : "4-true.png",
-      "FALSE" : "4-false.png",
+    "i am not as concerned with fashion as i am about modest price and wearability": {
+      "x" : 0,
+      "y" : 0,
+      "agree" : "4-true.png",
+      "disagree" : "4-false.png",
       "is_text" : false
     },
-    "An ideal breakfast would include:": {
-      "x" : 32,
-      "y" : 370,
+    "i think i am fashionable": {
+      "x" : 0,
+      "y" : 0,
+      "yes" : "4-true.png",
+      "no" : "4-false.png",
       "is_text" : true
-    }
+    },
+    "do you dress for comfort or style?": {
+      "x" : 0,
+      "y" : 0,
+      "comfort" : "3-1.png",
+      "style" : "3-2.png",
+      "is_text" : false
+    },
+    "does brand name play and important role in deciding your fashion style?": {
+      "x" : 0,
+      "y" : 0,
+      "yes" : "3-1.png",
+      "no" : "3-2.png",
+      "is_text" : false
+    },
+    "how do you feel about shopping?": {
+      "x" : 0,
+      "y" : 0,
+      "don't enjoy" : "3-1.png",
+      "it's okay" : "3-2.png",
+      "i love it" : "3-3.png",
+      "is_text" : false
+    },
+    "how much time and effort do you put into your look?": {
+      "x" : 0,
+      "y" : 0,
+      "not a lot" : "3-1.png",
+      "some" : "3-2.png",
+      "tons" : "3-3.png",
+      "is_text" : false
+    },
   },
 "data" : [
     {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "Typical",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "yes",
-    "does brand name play and important role in deciding your fashion style?": "yes",
     "if you opened your closet what would be the main color palette?": "a rainbow of colors",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
+    "if you could describe your style in one word what would it be?": "basic",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "yes",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "some"
   },
   {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "rarely",
-    "if you could describe your style in one word what would it be?": "Athleisure",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "no",
-    "does brand name play and important role in deciding your fashion style?": "yes",
     "if you opened your closet what would be the main color palette?": "basics (navy, white, brown)",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "all the time",
-    "if you could describe your style in one word what would it be?": "Comfy",
+    "if you could describe your style in one word what would it be?": "athleisure",
+    "how often do you try out the latest fashion trends?": "rarely",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "no",
     "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "yes",
     "does brand name play and important role in deciding your fashion style?": "yes",
-    "if you opened your closet what would be the main color palette?": "a rainbow of colors",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
     "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "not a lot",
-    "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "athletic",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "yes",
-    "does brand name play and important role in deciding your fashion style?": "no",
-    "if you opened your closet what would be the main color palette?": "a rainbow of colors",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
+    "how much time and effort do you put into your look?": "some"
   },
   {
+    "if you opened your closet what would be the main color palette?": "a rainbow of colors",
+    "if you could describe your style in one word what would it be?": "comfy",
+    "how often do you try out the latest fashion trends?": "all the time",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "yes",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "some"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "a rainbow of colors",
+    "if you could describe your style in one word what would it be?": "athleisure",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "no",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "not a lot"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "blacks with touches of bold color",
+    "if you could describe your style in one word what would it be?": "comfy",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "no",
     "how do you feel about shopping?": "it's okay",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "Comfortable trendy",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "yes",
-    "does brand name play and important role in deciding your fashion style?": "no",
-    "if you opened your closet what would be the main color palette?": "blacks with touches of bold color",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
+    "how much time and effort do you put into your look?": "some"
   },
   {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "tons",
+    "if you opened your closet what would be the main color palette?": "blacks with touches of bold color",
+    "if you could describe your style in one word what would it be?": "kylie jenner",
     "how often do you try out the latest fashion trends?": "all the time",
-    "if you could describe your style in one word what would it be?": "Kylie Jenner",
-    "do you dress for comfort or style?": "comfort",
+    "i am not as concerned with fashion as i am about modest price and wearability": "disagree",
     "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
     "does brand name play and important role in deciding your fashion style?": "yes",
-    "if you opened your closet what would be the main color palette?": "blacks with touches of bold color",
-    "i am not as concerned with fashion as i am about modest price and wearability": "disagree"
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "tons"
   },
   {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "not a lot",
-    "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "Athleisure",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "yes",
-    "does brand name play and important role in deciding your fashion style?": "yes",
     "if you opened your closet what would be the main color palette?": "basics (navy, white, brown)",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "it's okay",
-    "how much time and effort do you put into your look?": "not a lot",
+    "if you could describe your style in one word what would it be?": "athleisure",
     "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "Casual",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "no",
-    "does brand name play and important role in deciding your fashion style?": "no",
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "it's okay",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "Basic",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "no",
-    "does brand name play and important role in deciding your fashion style?": "no",
-    "if you opened your closet what would be the main color palette?": "a rainbow of colors",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "it's okay",
-    "how much time and effort do you put into your look?": "not a lot",
-    "how often do you try out the latest fashion trends?": "rarely",
-    "if you could describe your style in one word what would it be?": "Basic",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "no",
-    "does brand name play and important role in deciding your fashion style?": "no",
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "",
-    "do you dress for comfort or style?": "comfort",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
     "i think i am fashionable": "yes",
-    "does brand name play and important role in deciding your fashion style?": "no",
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "comfy casual",
     "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "yes",
     "does brand name play and important role in deciding your fashion style?": "yes",
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "not a lot"
   },
   {
-    "how do you feel about shopping?": "it's okay",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "rarely",
-    "if you could describe your style in one word what would it be?": "Workwear",
-    "do you dress for comfort or style?": "style",
-    "i think i am fashionable": "yes",
+    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you could describe your style in one word what would it be?": "casual",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "no",
+    "do you dress for comfort or style?": "comfort",
     "does brand name play and important role in deciding your fashion style?": "no",
+    "how do you feel about shopping?": "it's okay",
+    "how much time and effort do you put into your look?": "not a lot"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "a rainbow of colors",
+    "if you could describe your style in one word what would it be?": "basic",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "no",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "no",
+    "how do you feel about shopping?": "it's okay",
+    "how much time and effort do you put into your look?": "some"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you could describe your style in one word what would it be?": "basic",
+    "how often do you try out the latest fashion trends?": "rarely",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "no",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "no",
+    "how do you feel about shopping?": "it's okay",
+    "how much time and effort do you put into your look?": "not a lot"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you could describe your style in one word what would it be?": "athleisure",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "no",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "some"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you could describe your style in one word what would it be?": "comfy",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "yes",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "some"
+  },
+  {
     "if you opened your closet what would be the main color palette?": "earth tones",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "it's okay",
-    "how much time and effort do you put into your look?": "not a lot",
+    "if you could describe your style in one word what would it be?": "workwear",
     "how often do you try out the latest fashion trends?": "rarely",
-    "if you could describe your style in one word what would it be?": "Basic",
-    "do you dress for comfort or style?": "comfort",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
     "i think i am fashionable": "yes",
-    "does brand name play and important role in deciding your fashion style?": "yes",
-    "if you opened your closet what would be the main color palette?": "a rainbow of colors",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "Casual",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "style",
     "does brand name play and important role in deciding your fashion style?": "no",
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "i am not as concerned with fashion as i am about modest price and wearability": "disagree"
+    "how do you feel about shopping?": "it's okay",
+    "how much time and effort do you put into your look?": "some"
   },
   {
+    "if you opened your closet what would be the main color palette?": "a rainbow of colors",
+    "if you could describe your style in one word what would it be?": "basic",
+    "how often do you try out the latest fashion trends?": "rarely",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "yes",
     "how do you feel about shopping?": "it's okay",
-    "how much time and effort do you put into your look?": "some",
+    "how much time and effort do you put into your look?": "not a lot"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you could describe your style in one word what would it be?": "casual",
     "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "disagree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "no",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "some"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "basics (navy, white, brown)",
     "if you could describe your style in one word what would it be?": "plain",
-    "do you dress for comfort or style?": "comfort",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "disagree",
     "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
     "does brand name play and important role in deciding your fashion style?": "yes",
-    "if you opened your closet what would be the main color palette?": "basics (navy, white, brown)",
-    "i am not as concerned with fashion as i am about modest price and wearability": "disagree"
+    "how do you feel about shopping?": "it's okay",
+    "how much time and effort do you put into your look?": "some"
   },
   {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "occasionally",
+    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
     "if you could describe your style in one word what would it be?": "cool",
-    "do you dress for comfort or style?": "style",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
     "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "style",
     "does brand name play and important role in deciding your fashion style?": "yes",
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "some"
   },
   {
-    "how do you feel about shopping?": "it's okay",
-    "how much time and effort do you put into your look?": "some",
+    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you could describe your style in one word what would it be?": "basic",
     "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "Basic",
-    "do you dress for comfort or style?": "comfort",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
     "i think i am fashionable": "no",
+    "do you dress for comfort or style?": "comfort",
     "does brand name play and important role in deciding your fashion style?": "yes",
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
     "how do you feel about shopping?": "it's okay",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "Athletic",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "yes",
-    "does brand name play and important role in deciding your fashion style?": "no",
+    "how much time and effort do you put into your look?": "some"
+  },
+  {
     "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "some",
+    "if you could describe your style in one word what would it be?": "athleiure",
     "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "comfort",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "yes",
     "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "yes",
-    "does brand name play and important role in deciding your fashion style?": "yes",
-    "if you opened your closet what would be the main color palette?": "blacks with touches of bold color",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "tons",
-    "how often do you try out the latest fashion trends?": "all the time",
-    "if you could describe your style in one word what would it be?": "Fly",
-    "do you dress for comfort or style?": "style",
-    "i think i am fashionable": "yes",
-    "does brand name play and important role in deciding your fashion style?": "yes",
-    "if you opened your closet what would be the main color palette?": "blacks with touches of bold color",
-    "i am not as concerned with fashion as i am about modest price and wearability": "disagree"
-  },
-  {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "tons",
-    "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "Fun",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "yes",
     "does brand name play and important role in deciding your fashion style?": "no",
+    "how do you feel about shopping?": "it's okay",
+    "how much time and effort do you put into your look?": "some"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "blacks with touches of bold color",
+    "if you could describe your style in one word what would it be?": "comfy",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "yes",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "some"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "blacks with touches of bold color",
+    "if you could describe your style in one word what would it be?": "fly",
+    "how often do you try out the latest fashion trends?": "all the time",
+    "i am not as concerned with fashion as i am about modest price and wearability": "disagree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "style",
+    "does brand name play and important role in deciding your fashion style?": "yes",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "tons"
+  },
+  {
     "if you opened your closet what would be the main color palette?": "a rainbow of colors",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "it's okay",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "rarely",
-    "if you could describe your style in one word what would it be?": "Typical",
-    "do you dress for comfort or style?": "comfort",
-    "i think i am fashionable": "no",
-    "does brand name play and important role in deciding your fashion style?": "no",
-    "if you opened your closet what would be the main color palette?": "earth tones",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
-  },
-  {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "some",
-    "how often do you try out the latest fashion trends?": "all the time",
-    "if you could describe your style in one word what would it be?": "City",
-    "do you dress for comfort or style?": "style",
-    "i think i am fashionable": "yes",
-    "does brand name play and important role in deciding your fashion style?": "yes",
-    "if you opened your closet what would be the main color palette?": "blacks with touches of bold color",
-    "i am not as concerned with fashion as i am about modest price and wearability": "disagree"
-  },
-  {
-    "how do you feel about shopping?": "i love it",
-    "how much time and effort do you put into your look?": "some",
+    "if you could describe your style in one word what would it be?": "fun",
     "how often do you try out the latest fashion trends?": "occasionally",
-    "if you could describe your style in one word what would it be?": "comfy casual",
-    "do you dress for comfort or style?": "comfort",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
     "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "no",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "tons"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "earth tones",
+    "if you could describe your style in one word what would it be?": "basic",
+    "how often do you try out the latest fashion trends?": "rarely",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "no",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "no",
+    "how do you feel about shopping?": "it's okay",
+    "how much time and effort do you put into your look?": "some"
+  },
+  {
+    "if you opened your closet what would be the main color palette?": "blacks with touches of bold color",
+    "if you could describe your style in one word what would it be?": "city",
+    "how often do you try out the latest fashion trends?": "all the time",
+    "i am not as concerned with fashion as i am about modest price and wearability": "disagree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "style",
     "does brand name play and important role in deciding your fashion style?": "yes",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "some"
+  },
+  {
     "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "i am not as concerned with fashion as i am about modest price and wearability": "agree"
+    "if you could describe your style in one word what would it be?": "comfy casual",
+    "how often do you try out the latest fashion trends?": "occasionally",
+    "i am not as concerned with fashion as i am about modest price and wearability": "agree",
+    "i think i am fashionable": "yes",
+    "do you dress for comfort or style?": "comfort",
+    "does brand name play and important role in deciding your fashion style?": "yes",
+    "how do you feel about shopping?": "i love it",
+    "how much time and effort do you put into your look?": "some"
   }
 ]
 }
