@@ -29,53 +29,53 @@
     "how often do you try out the latest fashion trends?": {
       "x" : 0,
       "y" : 0,
-      "rarley" : "3-1.png",
-      "occasionally" : "3-2.png",
-      "all the time" : "3-3.png",
+      "rarley" : "basics3.png",
+      "occasionally" : "basics4.png",
+      "all the time" : "basics5.png",
       "is_text" : false
     },
     "i am not as concerned with fashion as i am about modest price and wearability": {
       "x" : 0,
       "y" : 0,
-      "agree" : "4-true.png",
-      "disagree" : "4-false.png",
+      "agree" : "basics6.png",
+      "disagree" : "basics7.png",
       "is_text" : false
     },
     "i think i am fashionable": {
       "x" : 0,
       "y" : 0,
-      "yes" : "4-true.png",
-      "no" : "4-false.png",
+      "yes" : "basics8.png",
+      "no" : "basics9.png",
       "is_text" : true
     },
     "do you dress for comfort or style?": {
       "x" : 0,
       "y" : 0,
-      "comfort" : "3-1.png",
-      "style" : "3-2.png",
+      "comfort" : "basics10.png",
+      "style" : "basics11.png",
       "is_text" : false
     },
     "does brand name play and important role in deciding your fashion style?": {
       "x" : 0,
       "y" : 0,
-      "yes" : "3-1.png",
-      "no" : "3-2.png",
+      "yes" : "basics12.png",
+      "no" : "basics13.png",
       "is_text" : false
     },
     "how do you feel about shopping?": {
       "x" : 0,
       "y" : 0,
-      "don't enjoy" : "3-1.png",
-      "it's okay" : "3-2.png",
-      "i love it" : "3-3.png",
+      "don't enjoy" : "basics14.png",
+      "it's okay" : "basics15.png",
+      "i love it" : "basics16.png",
       "is_text" : false
     },
     "how much time and effort do you put into your look?": {
       "x" : 0,
       "y" : 0,
-      "not a lot" : "3-1.png",
-      "some" : "3-2.png",
-      "tons" : "3-3.png",
+      "not a lot" : "basics17.png",
+      "some" : "basics18.png",
+      "tons" : "basics19.png",
       "is_text" : false
     },
   },
