@@ -4,79 +4,87 @@
     "if you opened your closet what would be the main color palette?": {
       "x" : 0,
       "y" : 0,
-      "basics" : "1_always.png",
-      "neutrals" : "1_often.png",
-      "a rainbow of colors" : "1_sometimes.png",
-      "earth tones" : "1_hardly-ever.png",
-      "blacks with touches of bold colors" : "1_never.png",
+      "basics" : "q1_b1.png",
+      "neutrals" : "q1_n1.png",
+      "a rainbow of colors" : "q1_c1.png",
+      "earth tones" : "q1_e1.png",
+      "blacks with touches of bold colors" : "q1_blk1.png",
       "is_text" : false
     },
     "if you could describe your style in one word what would it be?": {
       "x" : 0,
       "y" : 0,
-      "city" : "city.png",
-      "fun" : "fun.png",
-      "fly" : "fly.png",
-      "comfy" : "comfy.png",
-      "cool" : "cool.png",
-      "plain" : "plain.png",
-      "casual" : "casual.png",
-      "workwear" : "workwear.png",
-      "athleisure" : "athleisure.png",
-      "kylie jenner" : "kylie jenner.png",
+      "city" : "q2_city.png",
+      "fun" : "q2_fun.png",
+      "fly" : "q2_fly.png",
+      "comfy" : "q2_comfy.png",
+      "cool" : "q2_cool.png",
+      "plain" : "q2_plain.png",
+      "casual" : "q2_casual.png",
+      "workwear" : "q2_workwear.png",
+      "athleisure" : "q2_athleisure.png",
+      "kylie jenner" : "q2_kyliejenner.png",
+      "basic" : "q2_basic.png",
       "is_text" : false
     },
     "how often do you try out the latest fashion trends?": {
       "x" : 0,
       "y" : 0,
-      "rarley" : "basics3.png",
-      "occasionally" : "basics4.png",
-      "all the time" : "basics5.png",
-      "is_text" : false
+      "rarley" : "q3b1.png",
+      "occasionally" : "q3b2.png",
+      "all the time" : "q3b3.png",
+      "is_text" : false,
+      "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "i am not as concerned with fashion as i am about modest price and wearability": {
       "x" : 0,
       "y" : 0,
-      "agree" : "basics6.png",
-      "disagree" : "basics7.png",
-      "is_text" : false
+      "agree" : "q4b1.png",
+      "disagree" : "q4b2.png",
+      "is_text" : false,
+      "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "i think i am fashionable": {
       "x" : 0,
       "y" : 0,
-      "yes" : "basics8.png",
-      "no" : "basics9.png",
-      "is_text" : true
+      "yes" : "q5b1.png",
+      "no" : "q5b2.png",
+      "is_text" : true,
+      "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "do you dress for comfort or style?": {
       "x" : 0,
       "y" : 0,
-      "comfort" : "basics10.png",
-      "style" : "basics11.png",
-      "is_text" : false
+      "comfort" : "q6b1.png",
+      "style" : "q6b2.png",
+      "is_text" : false,
+      "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "does brand name play and important role in deciding your fashion style?": {
       "x" : 0,
       "y" : 0,
-      "yes" : "basics12.png",
-      "no" : "basics13.png",
-      "is_text" : false
+      "yes" : "q7b1.png",
+      "no" : "q7b2.png",
+      "is_text" : false,
+      "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "how do you feel about shopping?": {
       "x" : 0,
       "y" : 0,
-      "don't enjoy" : "basics14.png",
-      "it's okay" : "basics15.png",
-      "i love it" : "basics16.png",
-      "is_text" : false
+      "don't enjoy" : "q8b1.png",
+      "it's okay" : "q8b2.png",
+      "i love it" : "q8b3.png",
+      "is_text" : false,
+      "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "how much time and effort do you put into your look?": {
       "x" : 0,
       "y" : 0,
-      "not a lot" : "basics17.png",
-      "some" : "basics18.png",
-      "tons" : "basics19.png",
-      "is_text" : false
+      "not a lot" : "q9b1.png",
+      "some" : "q9b2.png",
+      "tons" : "q9b3.png",
+      "is_text" : false,
+      "determined_by" : "if you opened your closet what would be the main color palette?"
     },
   },
 "data" : [
