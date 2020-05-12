@@ -4,11 +4,11 @@
     "if you opened your closet what would be the main color palette?": {
       "x" : 0,
       "y" : 0,
-      "basics" : "q1_b1.png",
-      "neutrals" : "q1_n1.png",
-      "a rainbow of colors" : "q1_c1.png",
-      "earth tones" : "q1_e1.png",
-      "blacks with touches of bold colors" : "q1_blk1.png",
+      "basics" : "basics.png",
+      "neutrals" : "neutrals.png",
+      "a rainbow of colors" : "colored.png",
+      "earth tones" : "earth.png",
+      "blacks with touches of bold color" : "black.png",
       "is_text" : false
     },
     "if you could describe your style in one word what would it be?": {
@@ -30,62 +30,62 @@
     "how often do you try out the latest fashion trends?": {
       "x" : 0,
       "y" : 0,
-      "rarley" : "q3b1.png",
-      "occasionally" : "q3b2.png",
-      "all the time" : "q3b3.png",
+      "rarely" : "rarely.png",
+      "occasionally" : "occasionally.png",
+      "all the time" : "always.png",
       "is_text" : false,
       "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "i am not as concerned with fashion as i am about modest price and wearability": {
       "x" : 0,
       "y" : 0,
-      "agree" : "q4b1.png",
-      "disagree" : "q4b2.png",
+      "agree" : "agree.png",
+      "disagree" : "disagree.png",
       "is_text" : false,
       "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "i think i am fashionable": {
       "x" : 0,
       "y" : 0,
-      "yes" : "q5b1.png",
-      "no" : "q5b2.png",
-      "is_text" : true,
+      "yes" : "yes.png",
+      "no" : "no.png",
+      "is_text" : false,
       "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "do you dress for comfort or style?": {
       "x" : 0,
       "y" : 0,
-      "comfort" : "q6b1.png",
-      "style" : "q6b2.png",
+      "comfort" : "comfort.png",
+      "style" : "style.png",
       "is_text" : false,
       "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "does brand name play and important role in deciding your fashion style?": {
       "x" : 0,
       "y" : 0,
-      "yes" : "q7b1.png",
-      "no" : "q7b2.png",
+      "yes" : "7yes.png",
+      "no" : "7no.png",
       "is_text" : false,
       "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "how do you feel about shopping?": {
       "x" : 0,
       "y" : 0,
-      "don't enjoy" : "q8b1.png",
-      "it's okay" : "q8b2.png",
-      "i love it" : "q8b3.png",
+      "don't enjoy" : "dont.png",
+      "it's okay" : "okay.png",
+      "i love it" : "love.png",
       "is_text" : false,
       "determined_by" : "if you opened your closet what would be the main color palette?"
     },
     "how much time and effort do you put into your look?": {
       "x" : 0,
       "y" : 0,
-      "not a lot" : "q9b1.png",
-      "some" : "q9b2.png",
-      "tons" : "q9b3.png",
+      "not a lot" : "not.png",
+      "some" : "some.png",
+      "tons" : "tons.png",
       "is_text" : false,
       "determined_by" : "if you opened your closet what would be the main color palette?"
-    },
+    }
   },
 "data" : [
     {
@@ -100,7 +100,7 @@
     "how much time and effort do you put into your look?": "some"
   },
   {
-    "if you opened your closet what would be the main color palette?": "basics (navy, white, brown)",
+    "if you opened your closet what would be the main color palette?": "basics",
     "if you could describe your style in one word what would it be?": "athleisure",
     "how often do you try out the latest fashion trends?": "rarely",
     "i am not as concerned with fashion as i am about modest price and wearability": "agree",
@@ -155,7 +155,7 @@
     "how much time and effort do you put into your look?": "tons"
   },
   {
-    "if you opened your closet what would be the main color palette?": "basics (navy, white, brown)",
+    "if you opened your closet what would be the main color palette?": "basics",
     "if you could describe your style in one word what would it be?": "athleisure",
     "how often do you try out the latest fashion trends?": "occasionally",
     "i am not as concerned with fashion as i am about modest price and wearability": "agree",
@@ -166,7 +166,7 @@
     "how much time and effort do you put into your look?": "not a lot"
   },
   {
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you opened your closet what would be the main color palette?": "neutrals",
     "if you could describe your style in one word what would it be?": "casual",
     "how often do you try out the latest fashion trends?": "occasionally",
     "i am not as concerned with fashion as i am about modest price and wearability": "agree",
@@ -188,7 +188,7 @@
     "how much time and effort do you put into your look?": "some"
   },
   {
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you opened your closet what would be the main color palette?": "neutrals",
     "if you could describe your style in one word what would it be?": "basic",
     "how often do you try out the latest fashion trends?": "rarely",
     "i am not as concerned with fashion as i am about modest price and wearability": "agree",
@@ -199,7 +199,7 @@
     "how much time and effort do you put into your look?": "not a lot"
   },
   {
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you opened your closet what would be the main color palette?": "neutrals",
     "if you could describe your style in one word what would it be?": "athleisure",
     "how often do you try out the latest fashion trends?": "occasionally",
     "i am not as concerned with fashion as i am about modest price and wearability": "agree",
@@ -210,7 +210,7 @@
     "how much time and effort do you put into your look?": "some"
   },
   {
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you opened your closet what would be the main color palette?": "neutrals",
     "if you could describe your style in one word what would it be?": "comfy",
     "how often do you try out the latest fashion trends?": "occasionally",
     "i am not as concerned with fashion as i am about modest price and wearability": "agree",
@@ -243,7 +243,7 @@
     "how much time and effort do you put into your look?": "not a lot"
   },
   {
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you opened your closet what would be the main color palette?": "neutrals",
     "if you could describe your style in one word what would it be?": "casual",
     "how often do you try out the latest fashion trends?": "occasionally",
     "i am not as concerned with fashion as i am about modest price and wearability": "disagree",
@@ -254,7 +254,7 @@
     "how much time and effort do you put into your look?": "some"
   },
   {
-    "if you opened your closet what would be the main color palette?": "basics (navy, white, brown)",
+    "if you opened your closet what would be the main color palette?": "basics",
     "if you could describe your style in one word what would it be?": "plain",
     "how often do you try out the latest fashion trends?": "occasionally",
     "i am not as concerned with fashion as i am about modest price and wearability": "disagree",
@@ -265,7 +265,7 @@
     "how much time and effort do you put into your look?": "some"
   },
   {
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you opened your closet what would be the main color palette?": "neutrals",
     "if you could describe your style in one word what would it be?": "cool",
     "how often do you try out the latest fashion trends?": "occasionally",
     "i am not as concerned with fashion as i am about modest price and wearability": "agree",
@@ -276,7 +276,7 @@
     "how much time and effort do you put into your look?": "some"
   },
   {
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
+    "if you opened your closet what would be the main color palette?": "neutrals",
     "if you could describe your style in one word what would it be?": "basic",
     "how often do you try out the latest fashion trends?": "occasionally",
     "i am not as concerned with fashion as i am about modest price and wearability": "agree",
@@ -287,8 +287,8 @@
     "how much time and effort do you put into your look?": "some"
   },
   {
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "if you could describe your style in one word what would it be?": "athleiure",
+    "if you opened your closet what would be the main color palette?": "neutrals",
+    "if you could describe your style in one word what would it be?": "athleisure",
     "how often do you try out the latest fashion trends?": "occasionally",
     "i am not as concerned with fashion as i am about modest price and wearability": "agree",
     "i think i am fashionable": "yes",
@@ -353,8 +353,8 @@
     "how much time and effort do you put into your look?": "some"
   },
   {
-    "if you opened your closet what would be the main color palette?": "blacks and neutrals",
-    "if you could describe your style in one word what would it be?": "comfy casual",
+    "if you opened your closet what would be the main color palette?": "neutrals",
+    "if you could describe your style in one word what would it be?": "comfy",
     "how often do you try out the latest fashion trends?": "occasionally",
     "i am not as concerned with fashion as i am about modest price and wearability": "agree",
     "i think i am fashionable": "yes",
