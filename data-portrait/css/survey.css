@@ -3,9 +3,9 @@
 /* vars */
 :root {
   --background-color: #FFFFFF;
-  --link-color: #E2E3E3;
+  --link-color: #000000;
   --alt-link-color: #CEDC00;
-  --body-color: #111;
+  --body-color: #000000;
   --charcoal-grey: #575655;
   --light-grey: #A9AAAA;
   --lighter-grey: #C6C7C6;
