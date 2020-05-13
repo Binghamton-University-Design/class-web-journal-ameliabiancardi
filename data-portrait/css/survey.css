@@ -3,7 +3,7 @@
 /* vars */
 :root {
   --background-color: #FFFFFF;
-  --link-color: #0000000;
+  --link-color: #000000;
   --alt-link-color: #000000;
   --body-color: #000000;
   --charcoal-grey: #000000;
@@ -59,15 +59,15 @@ body {
 
 #portrait-info a {
   transition: color, background-color .35s ease-in-out;
-  padding: 0px 0px;
-  color: #FFFFFF;
+  padding: 2px;
+  color: #333;
   text-decoration: none;
   background-color: #FFFFFF;
 }
 
 #portrait-info a:hover {
   background-color: #FFFFFF;
-  color: #FFFFFF;
+  color: #333;
 }
 
 #sketch-over {
