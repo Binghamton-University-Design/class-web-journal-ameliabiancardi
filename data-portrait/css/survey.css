@@ -2,14 +2,14 @@
 
 /* vars */
 :root {
-  --background-color: #FFFFFF;
-  --link-color: #000000;
+  --background-color: #000000;
+  --link-color: #FFFFFF;
   --alt-link-color: #FFFFFF;
-  --body-color: #000000;
-  --charcoal-grey: #000000;
-  --light-grey: #000000;
-  --lighter-grey: #000000;
-  --lightest-grey: #000000;
+  --body-color: #FFFFFF;
+  --charcoal-grey: #FFFFFF;
+  --light-grey: #FFFFFF;
+  --lighter-grey: #FFFFFF;
+  --lightest-grey: #FFFFFF;
 }
 
 html {
@@ -54,20 +54,20 @@ body {
 
 #portrait-info {
   width: 300px;
-  color: #000000;
+  color: #FFFFFF;
 }
 
 #portrait-info a {
   transition: color, background-color .35s ease-in-out;
   padding: 0px 0px;
-  color: #000000;
+  color: #FFFFFF;
   text-decoration: none;
-  background-color: #000000;
+  background-color: #FFFFFF;
 }
 
 #portrait-info a:hover {
-  background-color: #000000;
-  color: #000000;
+  background-color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 #sketch-over {
