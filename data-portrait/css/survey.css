@@ -6,10 +6,10 @@
   --link-color: #0000000;
   --alt-link-color: #000000;
   --body-color: #000000;
-  --charcoal-grey: #FFFFFF;
-  --light-grey: #FFFFFF;
-  --lighter-grey: #FFFFFF;
-  --lightest-grey: #FFFFFF;
+  --charcoal-grey: #000000;
+  --light-grey: #000000;
+  --lighter-grey: #000000;
+  --lightest-grey: #000000;
 }
 
 html {
@@ -17,10 +17,10 @@ html {
 }
 
 body {
-    background-color: var(--background-color);
+    background-color: var(--link-color);
     text-align: left;
     margin: 0;
-    color: var(--body-color);
+    color: var(--link-color);
     font-family: Avenir , sans-serif; 
     font-size: 12px;
     font-weight: 400;
