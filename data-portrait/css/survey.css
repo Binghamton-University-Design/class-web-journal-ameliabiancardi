@@ -54,7 +54,7 @@ body {
 
 #portrait-info {
   width: 300px;
-  color: #000000;
+  color: #fff;
 }
 
 #portrait-info a {
@@ -62,11 +62,11 @@ body {
   padding: 3px 5px;
   color: #c9084c;
   text-decoration: none;
-  background-color: #efad1b;
+  background-color: #000000;
 }
 
 #portrait-info a:hover {
-  background-color: #c9084c;
+  background-color: #000000;
   color: #efad1b;
 }
 
